@@ -1,0 +1,38 @@
+Grading at Tue Feb  6 04:07:24 UTC 2018
+Checking code2.c for legal syntax
+Checking for int printTriangle (int size)
+Found on line 4, column 1 
+Checking for int main(void)
+Found on line 30, column 1 
+Trying to run the code..
+Line_2_did_not_match
+Line_3_did_not_match
+Line_4_did_not_match
+Line_5_did_not_match
+Line_7_did_not_match
+Line_8_did_not_match
+Line_9_did_not_match
+Line_10_did_not_match
+Line_11_did_not_match
+Line_12_did_not_match
+Line_13_did_not_match
+Line_14_did_not_match
+Your file did not match the expected ouput
+Here is what you printed
+Here is a triangle with height 4
+*1
+*2*3
+*4*5*6
+*7*8*9*10
+That triangle had 10 total stars
+Here is a triangle with a height 7
+*1
+*2*3
+*4*5*6
+*7*8*9*10
+*11*12*13*14*15
+*16*17*18*19*20*21
+*22*23*24*25*26*27*28
+That triangle had 28 total stars
+
+Overall Grade: F
