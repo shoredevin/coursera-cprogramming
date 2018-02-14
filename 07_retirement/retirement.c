@@ -10,13 +10,15 @@ struct _retire_info {
 };
 typedef struct _retire_info retire_info;
 
+void retirement (int startAge, //in months
+		 double initial, //initial savings in dollars
+		 retire_info working, //info about
+		 retire_info retired) //info about being retired
+{
+  printf("helo");
+}
 
-//void retirement (int startAge, //in months
-//		 double initial, //initial savings in dollars
-//		 retire_info working, //info about working
-//		 retire_info retired) //info about being retired
-
-double retirement(retire_info r){
+double savings(retire_info r){
 int i; 
  for (i = r.start + 1; (i <= r.months); i++){
    //if (i < r.months) {
@@ -40,7 +42,7 @@ int i;
     working.rate_of_return = .045/12; //% per month
     working.balance = 21345;
     printf ("Age %3d month %2d you have $%.2lf\n", working.start/12, working.start%12, working.balance);
-    retirement(working);
+    savings(working);
 
     retired.start = working.months;
     retired.months = 1199;
@@ -48,7 +50,7 @@ int i;
     retired.rate_of_return = .01/12; //% per month
     retired.balance = 1529340.57;
     //    printf ("Age %3d month %2d you have $%.2lf\n", retired.start/12, retired.start%12, retired.balance);
-    retirement(retired);
+    savings(retired);
 
     return EXIT_SUCCESS;
   }
