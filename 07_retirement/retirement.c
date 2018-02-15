@@ -48,7 +48,7 @@ int i;
     retired.months = 1199;
     retired.contribution = -4000;
     retired.rate_of_return = .01/12; //% per month
-    retired.balance = 1529340.571;
+    retired.balance = 1529340.57134033;
     //    printf ("Age %3d month %2d you have $%.2lf\n", retired.start/12, retired.start%12, retired.balance);
     savings(retired);
 
