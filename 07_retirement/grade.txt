@@ -1,4 +1,4 @@
-Grading at Wed Feb 14 23:58:25 UTC 2018
+Grading at Thu Feb 15 00:23:39 UTC 2018
 Attempting to compile retirement.c
 Checking for struct _retire_info
 Found on line 4, column 1 
@@ -15,42 +15,12 @@ Found on line 13, column 1
 Checking for int main(void)
 Found on line 35, column 3 
 Trying to run retirement calculator..
-Line_520_did_not_match
-Line_536_did_not_match
-Line_541_did_not_match
 Line_560_did_not_match
-Line_565_did_not_match
-Line_572_did_not_match
-Line_590_did_not_match
-Line_598_did_not_match
 Line_605_did_not_match
-Line_626_did_not_match
-Line_629_did_not_match
-Line_654_did_not_match
-Line_677_did_not_match
-Line_686_did_not_match
-Line_688_did_not_match
-Line_703_did_not_match
-Line_706_did_not_match
 Line_707_did_not_match
-Line_708_did_not_match
 Line_721_did_not_match
-Line_726_did_not_match
-Line_751_did_not_match
-Line_764_did_not_match
-Line_766_did_not_match
-Line_793_did_not_match
-Line_800_did_not_match
 Line_801_did_not_match
-Line_816_did_not_match
-Line_824_did_not_match
-Line_835_did_not_match
-Line_836_did_not_match
-Line_854_did_not_match
-Line_868_did_not_match
-Line_869_did_not_match
 Line_870_did_not_match
-Line_872_did_not_match
 Your file did not match the expected ouput
 Your output did not match what we expected. Here is what you printed
 Age  27 month  3 you have $21345.00
@@ -572,7 +542,7 @@ Age  70 month  2 you have $1457733.17
 Age  70 month  3 you have $1454947.95
 Age  70 month  4 you have $1452160.40
 Age  70 month  5 you have $1449370.54
-Age  70 month  6 you have $1446578.34
+Age  70 month  6 you have $1446578.35
 Age  70 month  7 you have $1443783.83
 Age  70 month  8 you have $1440986.98
 Age  70 month  9 you have $1438187.80
@@ -588,12 +558,12 @@ Age  71 month  6 you have $1412890.00
 Age  71 month  7 you have $1410067.41
 Age  71 month  8 you have $1407242.47
 Age  71 month  9 you have $1404415.17
-Age  71 month 10 you have $1401585.51
+Age  71 month 10 you have $1401585.52
 Age  71 month 11 you have $1398753.50
 Age  72 month  0 you have $1395919.13
 Age  72 month  1 you have $1393082.40
 Age  72 month  2 you have $1390243.30
-Age  72 month  3 you have $1387401.83
+Age  72 month  3 you have $1387401.84
 Age  72 month  4 you have $1384558.00
 Age  72 month  5 you have $1381711.80
 Age  72 month  6 you have $1378863.23
@@ -617,14 +587,14 @@ Age  73 month 11 you have $1330072.67
 Age  74 month  0 you have $1327181.06
 Age  74 month  1 you have $1324287.04
 Age  74 month  2 you have $1321390.62
-Age  74 month  3 you have $1318491.77
+Age  74 month  3 you have $1318491.78
 Age  74 month  4 you have $1315590.52
 Age  74 month  5 you have $1312686.84
 Age  74 month  6 you have $1309780.75
 Age  74 month  7 you have $1306872.23
 Age  74 month  8 you have $1303961.29
 Age  74 month  9 you have $1301047.93
-Age  74 month 10 you have $1298132.13
+Age  74 month 10 you have $1298132.14
 Age  74 month 11 you have $1295213.91
 Age  75 month  0 you have $1292293.26
 Age  75 month  1 you have $1289370.17
@@ -642,7 +612,7 @@ Age  76 month  0 you have $1257054.97
 Age  76 month  1 you have $1254102.52
 Age  76 month  2 you have $1251147.60
 Age  76 month  3 you have $1248190.23
-Age  76 month  4 you have $1245230.38
+Age  76 month  4 you have $1245230.39
 Age  76 month  5 you have $1242268.08
 Age  76 month  6 you have $1239303.30
 Age  76 month  7 you have $1236336.05
@@ -650,7 +620,7 @@ Age  76 month  8 you have $1233366.33
 Age  76 month  9 you have $1230394.14
 Age  76 month 10 you have $1227419.47
 Age  76 month 11 you have $1224442.32
-Age  77 month  0 you have $1221462.68
+Age  77 month  0 you have $1221462.69
 Age  77 month  1 you have $1218480.57
 Age  77 month  2 you have $1215495.97
 Age  77 month  3 you have $1212508.88
@@ -678,10 +648,10 @@ Age  79 month  0 you have $1149201.84
 Age  79 month  1 you have $1146159.51
 Age  79 month  2 you have $1143114.64
 Age  79 month  3 you have $1140067.24
-Age  79 month  4 you have $1137017.29
+Age  79 month  4 you have $1137017.30
 Age  79 month  5 you have $1133964.81
 Age  79 month  6 you have $1130909.78
-Age  79 month  7 you have $1127852.20
+Age  79 month  7 you have $1127852.21
 Age  79 month  8 you have $1124792.08
 Age  79 month  9 you have $1121729.41
 Age  79 month 10 you have $1118664.18
@@ -706,7 +676,7 @@ Age  81 month  4 you have $1063051.26
 Age  81 month  5 you have $1059937.14
 Age  81 month  6 you have $1056820.42
 Age  81 month  7 you have $1053701.10
-Age  81 month  8 you have $1050579.18
+Age  81 month  8 you have $1050579.19
 Age  81 month  9 you have $1047454.67
 Age  81 month 10 you have $1044327.55
 Age  81 month 11 you have $1041197.82
@@ -729,7 +699,7 @@ Age  83 month  3 you have $990766.00
 Age  83 month  4 you have $987591.64
 Age  83 month  5 you have $984414.63
 Age  83 month  6 you have $981234.98
-Age  83 month  7 you have $978052.67
+Age  83 month  7 you have $978052.68
 Age  83 month  8 you have $974867.72
 Age  83 month  9 you have $971680.11
 Age  83 month 10 you have $968489.84
@@ -738,9 +708,9 @@ Age  84 month  0 you have $962101.33
 Age  84 month  1 you have $958903.08
 Age  84 month  2 you have $955702.17
 Age  84 month  3 you have $952498.59
-Age  84 month  4 you have $949292.33
+Age  84 month  4 you have $949292.34
 Age  84 month  5 you have $946083.41
-Age  84 month  6 you have $942871.81
+Age  84 month  6 you have $942871.82
 Age  84 month  7 you have $939657.54
 Age  84 month  8 you have $936440.59
 Age  84 month  9 you have $933220.96
@@ -755,12 +725,12 @@ Age  85 month  5 you have $907367.12
 Age  85 month  6 you have $904123.26
 Age  85 month  7 you have $900876.69
 Age  85 month  8 you have $897627.42
-Age  85 month  9 you have $894375.44
+Age  85 month  9 you have $894375.45
 Age  85 month 10 you have $891120.76
 Age  85 month 11 you have $887863.36
-Age  86 month  0 you have $884603.24
+Age  86 month  0 you have $884603.25
 Age  86 month  1 you have $881340.41
-Age  86 month  2 you have $878074.86
+Age  86 month  2 you have $878074.87
 Age  86 month  3 you have $874806.59
 Age  86 month  4 you have $871535.60
 Age  86 month  5 you have $868261.88
@@ -778,7 +748,7 @@ Age  87 month  4 you have $832070.40
 Age  87 month  5 you have $828763.79
 Age  87 month  6 you have $825454.43
 Age  87 month  7 you have $822142.31
-Age  87 month  8 you have $818827.42
+Age  87 month  8 you have $818827.43
 Age  87 month  9 you have $815509.78
 Age  87 month 10 you have $812189.37
 Age  87 month 11 you have $808866.20
@@ -803,7 +773,7 @@ Age  89 month  5 you have $748573.24
 Age  89 month  6 you have $745197.05
 Age  89 month  7 you have $741818.05
 Age  89 month  8 you have $738436.23
-Age  89 month  9 you have $735051.59
+Age  89 month  9 you have $735051.60
 Age  89 month 10 you have $731664.14
 Age  89 month 11 you have $728273.86
 Age  90 month  0 you have $724880.75
@@ -816,9 +786,9 @@ Age  90 month  6 you have $704462.66
 Age  90 month  7 you have $701049.71
 Age  90 month  8 you have $697633.92
 Age  90 month  9 you have $694215.28
-Age  90 month 10 you have $690793.79
+Age  90 month 10 you have $690793.80
 Age  90 month 11 you have $687369.46
-Age  91 month  0 you have $683942.26
+Age  91 month  0 you have $683942.27
 Age  91 month  1 you have $680512.22
 Age  91 month  2 you have $677079.31
 Age  91 month  3 you have $673643.54
@@ -845,14 +815,14 @@ Age  92 month 11 you have $604323.75
 Age  93 month  0 you have $600827.36
 Age  93 month  1 you have $597328.05
 Age  93 month  2 you have $593825.82
-Age  93 month  3 you have $590320.67
+Age  93 month  3 you have $590320.68
 Age  93 month  4 you have $586812.61
 Age  93 month  5 you have $583301.62
 Age  93 month  6 you have $579787.70
 Age  93 month  7 you have $576270.86
 Age  93 month  8 you have $572751.09
 Age  93 month  9 you have $569228.38
-Age  93 month 10 you have $565702.73
+Age  93 month 10 you have $565702.74
 Age  93 month 11 you have $562174.15
 Age  94 month  0 you have $558642.63
 Age  94 month  1 you have $555108.17
@@ -868,7 +838,7 @@ Age  94 month 10 you have $523165.15
 Age  94 month 11 you have $519601.12
 Age  95 month  0 you have $516034.12
 Age  95 month  1 you have $512464.15
-Age  95 month  2 you have $508891.20
+Age  95 month  2 you have $508891.21
 Age  95 month  3 you have $505315.28
 Age  95 month  4 you have $501736.38
 Age  95 month  5 you have $498154.49
@@ -876,7 +846,7 @@ Age  95 month  6 you have $494569.62
 Age  95 month  7 you have $490981.76
 Age  95 month  8 you have $487390.91
 Age  95 month  9 you have $483797.07
-Age  95 month 10 you have $480200.23
+Age  95 month 10 you have $480200.24
 Age  95 month 11 you have $476600.40
 Age  96 month  0 you have $472997.57
 Age  96 month  1 you have $469391.73
@@ -887,8 +857,8 @@ Age  96 month  5 you have $454938.32
 Age  96 month  6 you have $451317.43
 Age  96 month  7 you have $447693.53
 Age  96 month  8 you have $444066.61
-Age  96 month  9 you have $440436.66
-Age  96 month 10 you have $436803.69
+Age  96 month  9 you have $440436.67
+Age  96 month 10 you have $436803.70
 Age  96 month 11 you have $433167.70
 Age  97 month  0 you have $429528.67
 Age  97 month  1 you have $425886.61
@@ -906,7 +876,7 @@ Age  98 month  0 you have $385623.09
 Age  98 month  1 you have $381944.44
 Age  98 month  2 you have $378262.73
 Age  98 month  3 you have $374577.95
-Age  98 month  4 you have $370890.09
+Age  98 month  4 you have $370890.10
 Age  98 month  5 you have $367199.17
 Age  98 month  6 you have $363505.17
 Age  98 month  7 you have $359808.09
@@ -920,11 +890,11 @@ Age  99 month  2 you have $333842.13
 Age  99 month  3 you have $330120.33
 Age  99 month  4 you have $326395.43
 Age  99 month  5 you have $322667.43
-Age  99 month  6 you have $318936.31
-Age  99 month  7 you have $315202.09
+Age  99 month  6 you have $318936.32
+Age  99 month  7 you have $315202.10
 Age  99 month  8 you have $311464.76
 Age  99 month  9 you have $307724.32
-Age  99 month 10 you have $303980.75
+Age  99 month 10 you have $303980.76
 Age  99 month 11 you have $300234.07
 
 Overall Grade: F
