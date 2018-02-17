@@ -1,0 +1,39 @@
+ 
+qwert yuiop
+aaaa aaaaa 
+aaaaa bbbb
+aaaaa aaaaaa
+aaaaaa aaaaa
+a
+11111 111111
+aabbb bbbaa
+aalll aaqwe
+''''' """""
+11111111111111111111111111111111111111111
+aaaaa
+aaaaa aaaaa
+aaaab aaaac
+aaabb aaacc
+aabbb aaccc
+abbbb acccc
+allla booob
+ablll qwppp
+aaaaa bbbbb
+aaaaaaaaaaa
+//printf("hellp wprd");
+aaaaa
+ aaaaa
+abcde abcdef
+a a a
+a a a a
+ 
+aaaaa bbbbb
+aaaaa bbbbc
+aaabb bbbbc
+aaabb bbbcc
+aabbb bbbcc
+abbbb bbbcc
+abbbb bbccc
+bbbbb bcccc
+bbbbb ccccc
+
